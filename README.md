@@ -1,4 +1,4 @@
-# 2nd-stellar-project
+# Token_Burn
 🔥 Stellar Token Burn Mechanism
 
 A Soroban smart contract project implementing a Token Burn Mechanism on the Stellar blockchain. This project enables controlled token supply reduction to increase scarcity, stabilize value, and improve token economics.
