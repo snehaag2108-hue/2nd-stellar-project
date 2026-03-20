@@ -102,7 +102,7 @@ export default function Navbar({
           </div>
           <div className="flex items-center gap-2">
             <span className="text-base font-semibold tracking-tight text-white">
-              SupplyTrack
+              GoPro
             </span>
             <span className="hidden sm:inline-block text-[10px] font-mono text-white/20 border border-white/[0.06] rounded px-1.5 py-0.5">
               v1.0
