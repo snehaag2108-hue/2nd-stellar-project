@@ -75,13 +75,11 @@ Blockchain: Stellar
 
 Smart Contracts: Soroban
 
+Language: Rust
+
+SDK: Soroban SDK
+
 ---
 
 🔗 Deployed Contract id
 CC5XKP6FSQPHJ6OF5BA5LSGQ4TKETWXTBI77EGTAE5OHFOLYO3L66CMU
-
-
-
-Language: Rust
-
-SDK: Soroban SDK
